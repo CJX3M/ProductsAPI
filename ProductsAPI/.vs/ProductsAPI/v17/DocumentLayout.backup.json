@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cjlc\\source\\repos\\ProductsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7559AA5B-C859-9C8A-0787-730DB4BB2F60}|..\\ProductsAPI.Test\\ProductsAPI.Test.csproj|c:\\users\\cjlc\\source\\repos\\productsapi.test\\productsapi.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC76E1F-70E1-4F01-B76F-707B6AC3B0D6}|ProductsAPI.csproj|c:\\users\\cjlc\\source\\repos\\productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEC76E1F-70E1-4F01-B76F-707B6AC3B0D6}|ProductsAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC76E1F-70E1-4F01-B76F-707B6AC3B0D6}|ProductsAPI.csproj|c:\\users\\cjlc\\source\\repos\\productsapi\\productsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEC76E1F-70E1-4F01-B76F-707B6AC3B0D6}|ProductsAPI.csproj|solutionrelative:productsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cjlc\\source\\repos\\ProductsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\cjlc\\source\\repos\\ProductsAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T19:37:17.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsAPI",
+              "DocumentMoniker": "C:\\Users\\cjlc\\source\\repos\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeDocumentMoniker": "ProductsAPI.csproj",
+              "ToolTip": "C:\\Users\\cjlc\\source\\repos\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeToolTip": "ProductsAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T19:37:12.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsAPI.Test",
+              "DocumentMoniker": "C:\\Users\\cjlc\\source\\repos\\ProductsAPI.Test\\ProductsAPI.Test.csproj",
+              "RelativeDocumentMoniker": "..\\ProductsAPI.Test\\ProductsAPI.Test.csproj",
+              "ToolTip": "C:\\Users\\cjlc\\source\\repos\\ProductsAPI.Test\\ProductsAPI.Test.csproj",
+              "RelativeToolTip": "..\\ProductsAPI.Test\\ProductsAPI.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T19:36:59.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+@ProductsAPI_HostAddress = http://localhost:5080
+
+GET
+# # Get all products
+GET {{ProductsAPI_HostAddress}}/api/products
+# # Get a product by ID
+GET {{ProductsAPI_HostAddress}}/api/products/1
+POST
+# # Create a new product
+POST {{ProductsAPI_HostAddress}}/api/products
+	Content-Type: application/json
+{
+	"name": "New Product",
+	"description": "This is a new product.",
+	"price": 19.99,
+	"stock": 100
+}
+PUT
+# # Update a product by ID
+PUT {{ProductsAPI_HostAddress}}/api/products/1
+	Content-Type: application/json
+{
+	"name": "Updated Product",
+	"description": "This is an updated product.",
+	"price": 29.99,
+	"stock": 50
+}
+DELETE
+# # Delete a product by ID
+DELETE {{ProductsAPI_HostAddress}}/api/products/1
+PUT
+# # Increase a product stock by ID
+PUT {{ProductsAPI_HostAddress}}/api/products/1/stock
+	Content-Type: application/json
+{
+	"stock": 75
+}
+DELETE
+# # Decrease a product stock by ID
+DELETE {{ProductsAPI_HostAddress}}/api/products/1/stock
+	Content-Type: application/json
+{
+	"stock": 25
+}
+###
